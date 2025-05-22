@@ -1,2 +1,1 @@
-# TrackFlow – Lightweight CRM &
-Operations Process Automation App
+# TrackFlow web project
